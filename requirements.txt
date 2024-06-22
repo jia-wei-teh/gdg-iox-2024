@@ -3,3 +3,4 @@ python-dotenv
 ipykernel
 Pillow
 pdf2image
+rich
